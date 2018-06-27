@@ -19,3 +19,5 @@
 按q鍵即可離開遊戲，
 按z鍵可以提早結算成績。
 
+![image](Catch-the-ball-game-in-OpenGL/Ball.png)
+
